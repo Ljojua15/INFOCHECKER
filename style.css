@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    background-color: chartreuse;
+}
+
+.info {
+    display: flex;
+    text-align: center;
+    width: 80%;
+    height: 80%;
+    background-color: beige;
+}
